@@ -1,0 +1,39 @@
+Q-7. Identify and classify 5 applications you use daily as either system software or application software.
+Ans:- 
+                          +---------------------+
+                          |  Applications       |
+                          +---------------------+
+                                    |
+         +--------------------------+-------------------------+
+         |                                                  |
++---------------------+                             +----------------------+
+|  System Software    |                             |  Application Software|
++---------------------+                             +----------------------+
+         |                                                  |
+ +-------------------+                             +----------------------+
+ | Operating System  |                             | Web Browser          |
+ | (Windows, macOS)  |                             | (Chrome, Firefox)    |
+ +-------------------+                             +----------------------+
+         |                                                  |
+ +-------------------+                             +----------------------+
+ | File Manager      |                             | Text Editor          |
+ | (File Explorer)   |                             | (Notepad, Sublime)   |
+ +-------------------+                             +----------------------+
+                                                    |
+                                             +---------------------+
+                                             | Antivirus Software  |
+                                             | (Norton, McAfee)    |
+                                             +---------------------+
+
+Explanation:
+-------------
+1.System Software:-
+--------------------
+Operating System: Manages hardware and provides a platform for applications (e.g., Windows, macOS).
+File Manager: Allows you to manage files and folders (e.g., File Explorer, Finder).
+
+2.Application Software:-
+-------------------------
+Web Browser: Used for browsing the internet (e.g., Chrome, Firefox).
+Text Editor: Used for writing and editing text or code (e.g., Notepad, Sublime Text).
+Antivirus Software: Protects your computer from malware (e.g., Norton, McAfee).

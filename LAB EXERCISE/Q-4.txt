@@ -1,0 +1,55 @@
+Q-4. Research different types of internet connections (e.g., broadband, fiber, satellite) and list their pros and cons.
+Ans:-
+                      +-----------------------+
+                      |  Types of Internet    |
+                      |      Connections      |
+                      +-----------------------+
+                            |
+     +----------------------+----------------------+
+     |                      |                      |
++------------+        +------------+         +-------------+
+| Broadband  |        |   Fiber    |         | Satellite   |
+| (DSL, Cable)|        |  Optic    |         |   Internet  |
++------------+        +------------+         +-------------+
+    |                    |                      |
+    v                    v                      v
+  +------+             +--------+            +--------+
+  | Pros |             |  Pros  |            |  Pros  |
+  +------+             +--------+            +--------+
+    |                    |                      |
+    v                    v                      v
+  +--------+          +----------+           +---------+
+  | Cons   |          |  Cons    |           |  Cons   |
+  +--------+          +----------+           +---------+
+   |                      |                      |
+   v                      v                      v
++-----------+        +--------------+        +------------+
+|  5G Mobile |       |Mobile Hotspot|        |  Dial-Up   |
+|  Hotspot   |       |Cellular Data |        |  Internet  |
++-----------+        +--------------+        +------------+
+
+Explanation:
+
+1.Broadband (DSL, Cable):
+Pros: Affordable, reliable, fast enough for general use.
+Cons: Limited speed, depends on distance from exchange, shared bandwidth in cable.
+
+2.Fiber Optic:
+Pros: Very fast speeds, low latency, reliable.
+Cons: Expensive, limited availability, especially in rural areas.
+
+3.Satellite:
+Pros: Available in remote areas, global coverage.
+Cons: High latency, weather impact, slow speeds.
+
+4.5G Mobile Hotspot:
+Pros: Portable, fast speeds (in urban areas), low latency.
+Cons: Limited coverage, can be expensive, signal interference.
+
+5.Mobile Hotspot (Cellular Data):
+Pros: Portable, no physical infrastructure needed.
+Cons: Speed limits, data caps, dependent on cellular network.
+
+6.Dial-Up Internet:
+Pros: Cheap, available in rural areas with phone lines.
+Cons: Extremely slow speeds, no simultaneous phone usage, outdated.

@@ -1,0 +1,58 @@
+Q-2. What is Programming?
+Ans:-Programming is the process of writing instructions, called code, that tell a computer what to do. These instructions 
+     are written in a language that both humans and computers can understand, such as Python, Java, or C++.
+
+How It Works:
+
+    1.	Define a Task: Decide what you want the computer to do, like adding two numbers, displaying a message, or running a game.
+    2.	Write Code: Use a programming language to write step-by-step instructions to solve the problem or perform the task.
+    3.	Run the Program: The computer reads and executes the code to carry out the instructions.
+    4.	Get Results: The computer provides the output based on the instructions in the program.
+
+Example:
+
+    If you want the computer to say "Hello, World!" you write:
+        •	Python: print("Hello, World!")
+        •	The computer then reads this code and displays "Hello, World!" on the screen.
+
+Why is Programming Important?
+
+        •	It allows us to create software, websites, and apps.
+        •	It helps automate repetitive tasks.
+        •	It powers modern technology like smartphones, cars, and healthcare systems.
+
+Key Steps in the Programming Process:
+
+    1.	Define the Problem:
+        o	Clearly understand and define what the program needs to accomplish.
+        o	Identify the inputs, outputs, and overall purpose of the program.
+
+    2.	Plan the Solution:
+        o	Design a step-by-step approach or algorithm to solve the problem.
+        o	Use tools like flowcharts or pseudocode to visualize the solution.
+
+    3.	Write the Code:
+        o	Translate the algorithm into a programming language.
+        o	Choose an appropriate language based on the task and system requirements.
+
+    4.	Test the Program:
+        o	Run the program to check for errors (bugs).
+        o	Use sample inputs to ensure the program produces correct and expected outputs.
+
+    5.	Debug the Code:
+        o	Identify and fix any errors found during testing.
+        o	Ensure the program handles edge cases and invalid inputs gracefully.
+
+    6.	Optimize the Program:
+        o	Improve the program's efficiency by refining algorithms or code structure.
+        o	Minimize resource usage like memory or processing time.
+
+    7.	Document the Program:
+        o	Write comments and documentation to explain how the program works.
+        o	Provide user instructions and technical details for future reference.
+
+    8.	Deploy and Maintain:
+        o	Make the program available for use by deploying it to the intended environment.
+        o	Regularly update and maintain the program to fix issues or add new features.
+
+

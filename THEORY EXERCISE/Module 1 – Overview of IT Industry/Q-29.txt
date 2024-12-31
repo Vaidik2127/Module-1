@@ -1,0 +1,30 @@
+Q-29. What are the differences between native and hybrid mobile apps?
+Ans:- Here are the simple differences between native and hybrid mobile apps:
+
+Platform:
+Native: Made for one platform (like iPhone or Android).
+Hybrid: Works on both iPhone and Android using one code.
+
+Technology:
+Native: Built using the platform’s own programming languages (e.g., Swift for iOS, Java for Android).
+Hybrid: Uses web languages (HTML, CSS, JavaScript).
+
+Performance:
+Native: Faster and smoother because it uses the phone’s resources directly.
+Hybrid: Slower since it runs through a web browser inside the app.
+
+User Experience:
+Native: Best user experience for that platform (feels like part of the phone).
+Hybrid: Can feel less smooth or different across devices.
+
+Features Access:
+Native: Has full access to phone features (camera, GPS, etc.).
+Hybrid: May have limited access to some phone features.
+
+Development Time:
+Native: Takes longer because you need to create separate apps for each platform.
+Hybrid: Quicker since one code works for both platforms.
+
+Cost:
+Native: More expensive due to separate development for each platform.
+Hybrid: Cheaper as you only need to develop one app.

@@ -1,0 +1,28 @@
+Q-2. Research and create a diagram of how data is transmitted from a client to a server over the internet.
+Ans:-
++-------------------+              +-------------------+                +-------------------+                +-------------------+    
+|   Client Device   |    ------>   |  DNS Resolution   |    ------>     | ISP (Your Network)|   ------->     | Routers & Switches|
+|  (e.g., Laptop)   |              |   (Find IP Addr)  |                |   Data Packets    |                |  (Direct Traffic) |
++-------------------+              +-------------------+                +-------------------+                +-------------------+
+                                                                                                                        |
+                                                                                                                        |
+                                                                                                                        |    
+                                                                                                                        v
+                                                                                                             +--------------------+
+                                                                         +-------------------+               |     Server         |
+                                                                         | Return to Client  |   <--------   | (Processes Request |
+                                                                         |  (Reassembled)    |               |  & Sends Response) |
+                                                                         +-------------------+               +--------------------+
+          
+Key Points:
+----------------------------------------------------------
+Client Device: Initiates the request.
+--------------
+DNS Resolution: Finds the IP address of the server.
+---------------
+ISP: Routes the data through the internet.
+----
+Routers/Switches: Direct data to its destination.
+-----------------
+Server: Processes the request and sends the response back.
+-------

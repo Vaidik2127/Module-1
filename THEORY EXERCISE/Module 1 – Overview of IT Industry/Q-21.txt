@@ -1,0 +1,28 @@
+Q-21. Why is the requirement analysis phase critical in software development?
+Ans:- The requirement analysis phase is critical in software development because it lays the foundation for the entire project.
+      Here's why it's so important:
+
+1.Clear Understanding of Stakeholder Needs: It ensures that the development team fully understands the needs and expectations of 
+  the users, clients, and other stakeholders. This helps in defining the scope of the project and prevents misunderstandings later on.
+
+2.Prevention of Scope Creep: Well-defined requirements help prevent scope creep—when the project expands beyond its original 
+  objectives—by providing a clear, agreed-upon set of deliverables and goals.
+
+3.Improved Project Planning: Accurate requirements enable better planning in terms of time, resources, and budget. Estimating 
+  the time and cost for development is much easier when the requirements are well-understood.
+
+4.Design and Architecture Foundation: The requirements form the basis for the system's design and architecture. Without a clear
+  set of requirements, the development team may waste time on building features that are not required or fail to implement critical 
+  functionality.
+
+5.Quality Assurance and Testing: Requirements provide a baseline for testing the system. Test cases can be directly derived from 
+  the requirements, ensuring that the developed system meets the needs and functions as intended.
+
+6.Risk Reduction: It helps identify potential risks early in the project. By understanding the requirements up front, you can 
+  anticipate technical, operational, or business challenges and plan mitigations accordingly.
+
+7.User Satisfaction: By properly analyzing and addressing user requirements, you increase the chances of delivering a product 
+  that meets user expectations, which is critical for adoption and success.
+
+8.Minimizing Rework: If the requirements are well-defined and understood at the start, the chances of major revisions during the 
+  development process decrease, saving time and effort.

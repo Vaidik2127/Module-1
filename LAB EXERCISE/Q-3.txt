@@ -1,0 +1,20 @@
+Q-3. Design a simple HTTP client-server communication in any language.
+Ans:- 
++-----------------+                        +-----------------+
+|    Client      |                        |    Server      |
+|  (HTTP Client) |                        |  (HTTP Server) |
++-----------------+                        +-----------------+
+         |                                          |
+         | 1. HTTP GET Request                      |
+         |----------------------------------------->|
+         |                                          |
+         |                                          |
+         | 2. HTTP Response (200 OK, Data)          |
+         | <----------------------------------------|
+         |                                          |
+         +------------------------------------------+
+        
+This diagram shows the basic flow of communication:
+
+1.The client sends an HTTP GET request to the server.
+2.The server processes the request and responds with an HTTP response (e.g., "200 OK") along with the requested data.        

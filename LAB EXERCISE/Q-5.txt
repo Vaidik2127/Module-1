@@ -1,0 +1,45 @@
+Q-5. Simulate HTTP and FTP requests using command line tools (e.g., curl).
+Ans:-
+             +---------------------+
+             |   HTTP Requests      |
+             |    (using curl)      |
+             +---------------------+
+                      |
+        +-------------+-------------+
+        |                           |
+    +---------+                 +---------+
+    | GET     |                 | POST    |
+    | Request |                 | Request |
+    +---------+                 +---------+
+        |                           |
+        v                           v
+   +-------------------------+   +--------------------------+
+   | curl http://example.com |   | curl -X POST -d "name=   |
+   |                         |   | John&email=john@ex.com"  |
+   +-------------------------+   | http://example.com/submit|
+                                 +--------------------------+
+HTTP Requests (curl):
+----------------------
+1.GET Request: Use curl http://example.com to fetch data from a website.
+2.POST Request: Use curl -X POST -d to send form data or other information to a server.
+                
+                    +------------------------+
+                    |      FTP Requests      |
+                    |      (using ftp)       |
+                    +------------------------+
+                              |
+                +-------------+-------------+
+                |                           |
+            +-------+                   +-------+
+            |  List |                   |  Upload|
+            |  Files|                   |  File  |
+            +-------+                   +-------+
+                |                           |
+                v                           v
+      +--------------------+       +-----------------------------------+
+      | ftp ftp.example.com|       | put localfile.txt remotefile.txt  |
+      +--------------------+       +-----------------------------------+ 
+FTP Requests (ftp):
+-------------------
+1.List Files: After connecting to the FTP server, use ls to list files.
+2.Upload File: Use put to upload a file from your local machine to the FTP server.

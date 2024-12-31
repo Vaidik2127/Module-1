@@ -1,0 +1,50 @@
+Q-9. Create a case study on the functionality of the presentation, business logic, and data access layers of a given software system.
+Ans:- 
++-----------------------+
+|   Presentation Layer  |
+|-----------------------|
+|  - User Interface     |
+|  - Input Validation   |
++-----------------------+
+          |
+          v
++-----------------------+
+|  Business Logic Layer |
+|-----------------------|
+|  - Rules Engine       |
+|  - Workflow Mgmt      |
+|  - Data Validation    |
++-----------------------+
+          |
+          v
++-----------------------+
+|   Data Access Layer   |
+|-----------------------|
+|  - ORM (EF Core)      |
+|  - Database Queries   |
+|  - Transaction Mgmt   |
++-----------------------+
+          |
+          v
++-----------------------+
+|      Database         |
+|-----------------------|
+|  - SQL Server         |
++-----------------------+
+
+Explanation:-
+---------------
+1.Presentation Layer
+--------------------
+This is what the user sees and interacts with, like the app's interface.
+Example: A webpage where patients book appointments.
+
+2.Business Logic Layer
+-----------------------
+This is the brain of the system. It processes rules, decisions, and actions based on user input.
+Example: Checking if a doctor is available before confirming an appointment.
+
+3.Data Access Layer
+--------------------
+This connects to the database to save and retrieve information.
+Example: Storing the patient’s appointment details in the database.

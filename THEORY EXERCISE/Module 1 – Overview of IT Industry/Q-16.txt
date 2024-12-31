@@ -1,0 +1,58 @@
+Q-16. Student Account in Github.
+Ans:- GitHub offers a Student Developer Pack for students, providing free access to premium tools and resources to support learning 
+      and development. Here’s how to set up a student account:
+
+Steps to Get a GitHub Student Account
+
+    1.Sign Up for GitHub:
+        Go to GitHub and create an account.
+
+    2.Apply for the Student Developer Pack:
+        Visit the GitHub Student Pack.
+        Click on "Get Student Benefits".
+
+    3.Verify Your Student Status:
+        Provide proof of enrollment (e.g., school-issued email or upload a student ID).
+        Complete the application form with accurate details.
+
+    4.Wait for Approval:
+        It may take a few days for GitHub to review your application and approve it.
+
+Benefits of the GitHub Student Developer Pack:-
+-----------------------------------------------
+    Free and discounted access to tools like GitHub Pro, Canva, JetBrains, Namecheap, and more.
+    Unlimited private repositories.
+    Learning resources to enhance programming skills.
+
+What are the benefits of using Github for students?
+
+GitHub provides numerous benefits for students, especially through the GitHub Student Developer Pack, which includes free access to 
+tools and resources to boost learning and development. 
+
+Key Benefits of GitHub for Students:
+------------------------------------
+    GitHub Pro for Free:
+        Unlimited private repositories.
+        Advanced collaboration tools.
+        Insights into repository traffic.
+
+Access to Premium Developer Tools:
+Free or discounted tools like JetBrains IDEs, Canva, Namecheap (domain name registration), and Heroku.
+
+Portfolio Building:
+Showcase projects and code on your profile to create an impressive portfolio for internships and jobs.
+
+Collaboration and Version Control:
+Learn how to collaborate on projects, track changes, and use industry-standard practices for version control.
+
+Learning Opportunities:
+Access to educational resources and coding challenges to improve your skills.
+
+Open Source Contributions:
+Collaborate with real-world open-source projects and build your network.
+
+Career Boost:
+Gain experience with tools and workflows used in professional development environments.
+
+Community and Networking:
+Join a global community of developers, participate in hackathons, and connect with professionals.

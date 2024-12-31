@@ -1,0 +1,44 @@
+Q-22. What is the role of software analysis in the development process?
+Ans:- Software analysis plays a critical role in the software development process as it serves as the bridge between understanding 
+      the problem and crafting a solution. Its role can be summarized as follows:
+
+1. Problem Understanding
+Identifies Needs: Software analysis focuses on understanding the actual problem or opportunity that the software aims to address.
+Clarifies Ambiguities: It helps resolve ambiguities or conflicting information from stakeholders.
+
+2. Requirement Gathering and Documentation
+Elicits Requirements: It involves interacting with stakeholders to gather functional (what the system should do) and non-functional (how the system performs) requirements.
+Creates Formal Documentation: Provides structured documentation like Software Requirement Specifications (SRS), which serves as a reference throughout the project.
+
+3. System Feasibility
+Technical Feasibility: Evaluates if the technology and resources are adequate to meet the requirements.
+Economic Feasibility: Ensures the project is financially viable.
+Operational Feasibility: Assesses if the solution aligns with the organization’s processes and users.
+
+4. Scope Definition
+Defines Boundaries: Clearly outlines what the software will and will not do, reducing misunderstandings and scope creep.
+Sets Priorities: Helps prioritize features based on stakeholder importance, budget, and timelines.
+
+5. Architectural and Design Guidance
+Foundation for Design: Analysis informs the system architecture and detailed design decisions by defining how components should interact and behave.
+Identifies Dependencies: Highlights any external systems, APIs, or data integrations needed.
+
+6. Risk Management
+Identifies Risks: Helps uncover potential technical, operational, or business risks early in the project.
+Proposes Mitigation: Provides strategies to address these risks proactively.
+
+7. Improves Communication
+Aligns Stakeholders: Acts as a communication tool to align developers, testers, and stakeholders with a shared understanding of the project’s goals and requirements.
+Bridges Gaps: Reduces misunderstandings between technical and non-technical stakeholders.
+
+8. Supports Validation and Verification
+Validation: Ensures the requirements reflect what stakeholders truly need.
+Verification: Provides criteria to check if the system, when implemented, meets the specified requirements.
+
+9. Cost and Time Estimation
+Supports Planning: Enables realistic estimates of the time and resources required for development.
+Optimizes Budget: Helps balance cost by identifying essential versus optional features.
+
+10. Facilitates Change Management
+Tracks Changes: Provides a baseline to assess the impact of changes to requirements during development.
+Supports Flexibility: Helps the team adapt to evolving needs without compromising the overall goal.

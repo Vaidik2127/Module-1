@@ -1,0 +1,52 @@
+Q-24. Build a simple desktop calculator application using a GUI library.
+Ans:-
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    double num1, num2;
+    char operator;
+    double result;
+
+    // Displaying a simple calculator menu
+    printf("Simple Calculator\n");
+    printf("Enter an operation in the format: num1 operator num2\n");
+    printf("For example: 5 + 3\n");
+    printf("Operations: +, -, *, /\n");
+
+    // Taking user input for the calculation
+    printf("Enter your operation: ");
+    if (scanf("%lf %c %lf", &num1, &operator, &num2) != 3) {
+        printf("Invalid input\n");
+        return 1; // Exit the program if input is invalid
+    }
+
+    // Perform the operation based on the operator
+    switch (operator) {
+        case '+':
+            result = num1 + num2;
+            break;
+        case '-':
+            result = num1 - num2;
+            break;
+        case '*':
+            result = num1 * num2;
+            break;
+        case '/':
+            // Check if the denominator is not zero
+            if (num2 == 0) {
+                printf("Error: Division by zero is not allowed.\n");
+                return 1;
+            }
+            result = num1 / num2;
+            break;
+        default:
+            printf("Error: Invalid operator\n");
+            return 1;
+    }
+
+    // Display the result
+    printf("Result: %.2lf\n", result);
+
+    return 0;
+}

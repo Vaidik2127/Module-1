@@ -1,0 +1,56 @@
+Q-5. Network Layers on Client and Server.
+Ans:- TCP/IP Model: Overview
+            The TCP/IP (Transmission Control Protocol/Internet Protocol) model is the backbone of the internet and other modern     
+            networks. It provides a set of standardized rules for communication between devices, enabling data to be sent and 
+            received over a network. It has four layers, each responsible for specific tasks in data communication.
+
+TCP/IP Model Layers and Their Functions
+---------------------------------------------------------------------------------------------------------------------------------------
+        Application Layer
+            Function: Provides interfaces for software to communicate over a network. It handles user services like file transfer,
+            email, and web browsing.
+            Protocols: HTTP, HTTPS, FTP, SMTP, DNS, etc.
+        
+        Transport Layer
+            Function: Ensures reliable delivery of data between devices. It handles error detection, retransmission, and flow control.
+            Protocols:
+            TCP (Transmission Control Protocol): Provides reliable, connection-oriented communication.
+            UDP (User Datagram Protocol): Provides faster, connectionless communication but without reliability.
+        
+        Internet Layer
+            Function: Handles the logical addressing and routing of data packets between networks. It ensures that data reaches 
+            the correct destination.
+            Protocols:
+            IP (Internet Protocol): Responsible for addressing and routing packets.
+            ICMP (Internet Control Message Protocol): Used for error messages and diagnostics (e.g., ping).
+            ARP (Address Resolution Protocol): Resolves IP addresses to MAC addresses.
+        
+        Network Access Layer (Link Layer)
+            Function: Manages the physical transmission of data over the network. It handles framing, MAC addresses, and data
+            transfer through hardware.
+            Technologies: Ethernet, Wi-Fi, DSL, etc.
+            Client and Server
+            The client-server model is a foundational concept in networking, where devices communicate using the TCP/IP model.
+----------------------------------------------------------------------------------------------------------------------------------------
+Client:-
+    A client is a device or software application that requests services or resources from a server.
+    Example: A web browser like Chrome sends an HTTP request to a web server to fetch a webpage.
+    Characteristics:
+    Initiates communication.
+    Usually runs on user devices.
+    Can be lightweight and requires only enough resources to request and display data.
+
+Server:-
+    A server is a device or software application that provides services or resources in response to client requests.
+    Example: A web server processes HTTP requests and sends back webpages to the browser.
+    Characteristics:
+    Waits for and responds to client requests.
+    Typically more powerful with higher processing and storage capabilities.
+    Can serve multiple clients simultaneously.
+
+    Relationship Between TCP/IP and Client-Server Model
+----------------------------------------------------------------------------------------------------------------------------------------
+    Application Layer: The client and server communicate using protocols like HTTP, FTP, or SMTP.
+    Transport Layer: Ensures data is delivered reliably or quickly, depending on whether TCP or UDP is used.
+    Internet Layer: Routes the data between the client's and server's IP addresses.
+    Network Access Layer: Handles the actual data transmission over physical or wireless networks.

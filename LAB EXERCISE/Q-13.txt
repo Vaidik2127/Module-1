@@ -1,0 +1,70 @@
+Q-13. Create a student account on Github and collaborate on a small project with a classmate.
+Ans:- 
+1. Sign Up for GitHub and Apply for the GitHub Student Developer Pack:
+----------------------------------------------------------------------
+- Visit https://github.com and create a GitHub account.
+- Go to https://education.github.com/pack to apply for the GitHub Student Developer Pack.
+
+2. Create a New Repository for Your Project:
+--------------------------------------------
+C:\> git config --global user.name "Your Name"
+C:\> git config --global user.email "your-email@example.com"
+
+C:\> git init
+C:\> echo "# Student Project" > README.md
+
+3. Create Repository on GitHub:
+-------------------------------
+- Log in to GitHub, click **+** in the top-right corner, and select **New repository**.
+- Name the repository (e.g., `student-project`), provide a description, and click **Create repository**.
+
+4. Invite Classmate to Collaborate:
+-----------------------------------
+- Go to the repository page on GitHub.
+- Click **Settings** → **Collaborators**.
+- Enter your classmate’s GitHub username and click **Add collaborator**.
+
+5. Clone the Repository to Your Local Machine:
+----------------------------------------------
+C:\> git clone https://github.com/your-username/student-project.git
+Cloning into 'student-project'...
+remote: Counting objects: 10, done.
+remote: Total 10 (delta 0), reused 0 (delta 0), pack-reused 10
+Receiving objects: 100% (10/10), done.
+
+6. Navigate to the Project Folder:
+----------------------------------
+C:\> cd student-project
+
+7. Create or Modify Files in the Project:
+-----------------------------------------
+C:\student-project> echo "print('Hello, GitHub!')" > hello.py
+
+8. Add, Commit, and Push Changes:
+---------------------------------
+C:\student-project> git add .
+C:\student-project> git commit -m "Added hello.py"
+C:\student-project> git push origin master
+Counting objects: 5, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 314 bytes | 314.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+To https://github.com/your-username/student-project.git
+   a1b2c3d..d4e5f6g  master -> master
+
+9. Your Classmate Clones and Collaborates:
+------------------------------------------
+C:\> git clone https://github.com/your-username/student-project.git
+Cloning into 'student-project'...
+
+10. Classmate Makes Changes, Adds, Commits, and Pushes:
+------------------------------------------------------
+C:\student-project> echo "print('Hello from Classmate!')" > hello2.py
+C:\student-project> git add .
+C:\student-project> git commit -m "Classmate added hello2.py"
+C:\student-project> git push origin master
+
+11. Pull Changes from GitHub to Keep Local Repo Updated:
+------------------------------------------------------
+C:\student-project> git pull origin master

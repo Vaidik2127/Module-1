@@ -1,0 +1,37 @@
+Q-8. Design a basic three-tiersoftware architecture diagram for a web application.
+Ans:- 
+                      +---------------------------+
+                      |     Client Tier (UI)      |
+                      |  (User Interface)         |
+                      +---------------------------+
+                               |
+                               | HTTP/HTTPS Requests
+                               |
+                      +---------------------------+
+                      |     Web Tier (Application)|
+                      |      (Web Server)         |
+                      +---------------------------+
+                               |
+                               | Database Queries
+                               |
+                      +---------------------------+
+                      |     Data Tier (Database)  |
+                      |       (Database Server)   |
+                      +---------------------------+
+
+Explanation:-
+--------------
+1.Client Tier (User Interface)
+What it is: This is what the user sees and interacts with (like a website or app).
+Example: A webpage you visit in your browser.
+What it does: Shows you the information and sends your requests (like login or search) to the server.
+
+2. Web Tier (Application)
+What it is: This is the server that handles your requests.
+Example: The website’s backend that processes your login or search request.
+What it does: It takes your request, decides what to do, and asks the database for the information if needed.
+
+3. Data Tier (Database)
+What it is: This is where all the data is stored.
+Example: A database that holds your account info or product details.
+What it does: Stores and gives back data when the web server asks for it.

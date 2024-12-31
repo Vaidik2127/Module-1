@@ -1,0 +1,95 @@
+Q-14. Create a list of software you use regularly and classify them into the following,
+      categories: system, application, and utility software
+Ans:-
+1. System Software:
+--------------------
+C:\> Operating System:
+C:\>   - Windows 10/11
+C:\>   - macOS
+C:\>   - Linux (e.g., Ubuntu, Fedora)
+C:\>   - Android
+C:\>   - iOS
+
+C:\> Device Drivers:
+C:\>   - Graphics card drivers (Nvidia, AMD)
+C:\>   - Printer drivers
+C:\>   - Audio drivers
+
+C:\> Firmware:
+C:\>   - BIOS/UEFI (Motherboard management)
+C:\>   - Router firmware
+
+C:\> Virtualization Software:
+C:\>   - VMware
+C:\>   - VirtualBox
+
+2. Application Software:
+-------------------------
+C:\> Office Software:
+C:\>   - Microsoft Office (Word, Excel, PowerPoint)
+C:\>   - Google Workspace (Docs, Sheets, Slides)
+C:\>   - LibreOffice
+
+C:\> Web Browsers:
+C:\>   - Google Chrome
+C:\>   - Mozilla Firefox
+C:\>   - Microsoft Edge
+C:\>   - Safari
+
+C:\> Email Clients:
+C:\>   - Microsoft Outlook
+C:\>   - Thunderbird
+C:\>   - Apple Mail
+
+C:\> Graphics and Design Software:
+C:\>   - Adobe Photoshop
+C:\>   - CorelDRAW
+C:\>   - Adobe Illustrator
+C:\>   - Blender (3D modeling and animation)
+
+C:\> Video Editing Software:
+C:\>   - Adobe Premiere Pro
+C:\>   - Final Cut Pro
+C:\>   - DaVinci Resolve
+
+C:\> Development Environments:
+C:\>   - Visual Studio Code
+C:\>   - Eclipse
+C:\>   - PyCharm
+C:\>   - Xcode
+
+C:\> Music/Media Players:
+C:\>   - VLC Media Player
+C:\>   - Spotify
+C:\>   - iTunes
+
+3. Utility Software:
+--------------------
+C:\> Antivirus/Anti-malware:
+C:\>   - Windows Defender
+C:\>   - McAfee
+C:\>   - Bitdefender
+
+C:\> Backup and Recovery:
+C:\>   - Acronis True Image
+C:\>   - Macrium Reflect
+C:\>   - Google Drive (cloud storage)
+
+C:\> Disk Management:
+C:\>   - CCleaner
+C:\>   - WinRAR (file compression)
+C:\>   - 7-Zip
+
+C:\> File Synchronization/Cloud Storage:
+C:\>   - Dropbox
+C:\>   - Google Drive
+C:\>   - OneDrive
+
+C:\> System Monitoring and Optimization:
+C:\>   - Task Manager (Windows)
+C:\>   - Activity Monitor (macOS)
+C:\>   - CPU-Z
+
+C:\> File Transfer:
+C:\>   - FileZilla (FTP/SFTP client)
+C:\>   - WinSCP

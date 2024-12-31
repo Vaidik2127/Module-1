@@ -1,0 +1,74 @@
+Q-14. What is Source Code?
+Ans:- Source code is the human-readable set of instructions written by developers in a programming language, which serves as the 
+      foundation of any software application. It is what developers write, edit, and manage before it is compiled or interpreted
+      into a machine-executable format.
+
+Key Features of Source Code:-
+--------------------------------
+Human-Readable
+Written in programming languages like Python, Java, C++, JavaScript, etc.
+Designed to be understandable by humans, unlike machine code or bytecode.
+
+Editable
+Can be modified to add new features, fix bugs, or optimize performance.
+Executable (via Compilation or Interpretation)
+Requires a compiler or interpreter to translate it into machine-readable instructions (binary code).
+
+Versioned
+Managed using version control systems (e.g., Git) to track changes and collaborate.
+
+Importance of Source Code
+---------------------------------
+Core of Software Development
+    Contains the logic and functionality of a program.
+    Serves as the blueprint for how an application works.
+
+Collaboration
+    Shared among teams to allow multiple developers to contribute to the project.
+
+Maintainability
+    Well-documented and modular source code is easier to maintain and update.
+
+Customization
+    Allows developers to modify the software to meet specific needs or requirements.
+
+Portability
+    Source code written in platform-independent languages can be run on multiple systems with minimal changes.
+
+Components of Source Code:-
+--------------------------------
+Functions/Methods
+Define specific tasks or operations.
+
+Classes and Objects
+Used in Object-Oriented Programming (OOP) to model real-world entities.
+
+Variables and Constants
+Store data that the program manipulates.
+
+Control Structures
+Include loops (for, while) and conditionals (if, switch) for decision-making.
+
+Comments and Documentation
+Inline or block comments to explain the code logic for future reference.
+
+What is the difference between source code and machine code?
+
+Aspect	              |                      Source Code	                                               |        Machine Code
+----------------------|------------------------------------------------------------------------------------|----------------------------------------------------------
+Definition	          | Human-readable instructions written in a programming language.	                   | Low-level binary code that can be directly
+                      |                                                                                    | executed by a computer's CPU.
+----------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------                                                                                                         
+Readability	          | Easily understood by developers (e.g., in Python, Java, C++).	                   | Not human-readable; consists of 0s and 1s.
+----------------------|------------------------------------------------------------------------------------|------------------------------------------------------------
+Purpose	              | Written by developers to create, modify, and test programs.     	               | Used by the computer to perform operations.
+----------------------|------------------------------------------------------------------------------------|------------------------------------------------------------
+Translation           | Required	Needs to be translated into machine code.	                           | Does not require further translation; directly executable.
+----------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------
+Dependency	          | Requires a compiler, interpreter, or assembler for execution.	                   | Depends on the hardware and CPU architecture to run.
+----------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------
+Portability	          | Generally portable across platforms if written in a platform-independent language. |Not portable; specific to a particular CPU architecture.
+----------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------
+Example	              | print("Hello, World!") (Python)	                                                   | 10110000 01100001 (binary representation for CPU).
+----------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------
+Tools for Management  |	Managed with IDEs, text editors, and version control systems like Git.	           | Generated and optimized by compilers.

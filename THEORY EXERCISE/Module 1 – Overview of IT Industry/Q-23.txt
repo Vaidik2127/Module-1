@@ -1,0 +1,26 @@
+Q-23.  What are the key elements of system design?
+Ans:-System design is about planning how a system will work. Here are the key parts in very simple terms:
+
+1.Structure: Decide how all the pieces of the system will fit and work together.
+
+2.Data: Plan how to store and share information.
+
+3.Interface: Design what users see and interact with, like screens and buttons.
+
+4.Parts: Break the system into smaller pieces, each doing a specific job.
+
+5.Processes: Define the steps the system will follow to do tasks.
+
+6.Security: Protect the system and its data from hackers or misuse.
+
+7.Speed: Make sure it works fast and handles many users.
+
+8.Reliability: Ensure it keeps working, even if something goes wrong.
+
+9.User Experience: Make it easy and enjoyable to use.
+
+10.Flexibility: Allow room to add new features later.
+
+11.Rules: Follow laws and standards for safety and privacy.
+
+12.Setup: Choose where it will run, like on servers or in the cloud.

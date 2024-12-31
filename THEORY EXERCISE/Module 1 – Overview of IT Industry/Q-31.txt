@@ -1,0 +1,36 @@
+Q-31. What are the pros and cons of desktop applications compared to web applications?
+Ans:- Desktop Applications
+
+Pros:
+-----------------------------------------------------------------------------------------------
+Faster: Works faster since it uses your computer's resources directly.
+Works Offline: Doesn’t need the internet to run.
+Full Access to Device: Can use all your device’s features (camera, storage, etc.).
+More Secure: Data is stored on your device, so it's less vulnerable to online attacks.
+
+Cons:
+-----------------------------------------------------------------------------------------------
+Only on One Device: You can only use it on the device it’s installed on.
+Needs Updates: You have to manually update the app.
+Costly to Develop: You need different versions for each platform (Windows, macOS).
+Takes Up Space: It uses storage on your device.
+Web Applications
+
+Pros:
+-----------------------------------------------------------------------------------------------
+Use Anywhere: You can access it from any device with a browser and internet.
+No Installation: Just open it in a browser, no need to install anything.
+Works on Any Device: Works on different platforms (Windows, macOS, Android, iOS).
+Automatic Updates: The app updates automatically, so you always have the latest version.
+
+Cons:
+-----------------------------------------------------------------------------------------------
+Needs Internet: You need an internet connection to use it.
+Slower: May not be as fast as desktop apps.
+Limited Device Access: Doesn’t have full access to your device's features.
+Less Secure: Being online makes it more vulnerable to cyber attacks.
+
+
+In short:
+Desktop apps are good for fast, offline use with full access to your device, but they need installation and take up space.
+Web apps are convenient, easy to access, and work on multiple devices but need the internet and can be slower.

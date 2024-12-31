@@ -1,0 +1,15 @@
+Q-26. What are the key differences between web and desktop applications?
+Ans:- Here are the key differences between web applications and desktop applications:
+
+Feature	              |              Web Applications	                            |                 Desktop Applications
+----------------------|------------------------------------------------------------ |---------------------------------------------------------------------
+Accessibility	      |  Accessed through a web browser from any device.    	    |     Installed and run on a specific computer or device.
+Installation	      |  No installation required; accessed via URLs.	            |     Requires installation on each device.
+Updates	              |  Updates are applied centrally and automatically.	        |     Users need to download and install updates manually.
+Internet Requirement  |	 Typically requires an internet connection to function.     |     Can work offline (depending on the application).
+Platform Dependency   |  Platform-independent; works on any device with a browser.  |     Often platform-specific (Windows, macOS, Linux, etc.).
+Performance	          |  Dependent on browser and internet speed.	                |     Generally faster as it uses local system resources.
+Storage	              |  Data is stored on servers (cloud or remote storage).       |     Data is stored locally on the user’s device.
+Security	          |  Relies on server-side security measures.	                |     Requires local system and software security.
+Scalability	          |  Easier to scale as servers handle the load.	            |     Scaling depends on user hardware and device limits.
+User Experience       |	 Consistent experience across devices via browsers.         | 	  Tailored experience optimized for a specific platform.

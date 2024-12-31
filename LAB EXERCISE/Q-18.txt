@@ -1,0 +1,55 @@
+Q-18. Write a requirementspecification for a simple library management system.
+Ans:-
++--------------------------------------+
+|           Library Management        |
+|               System (LMS)          |
++--------------------------------------+
+                |
+                v
++-----------------------------+        +-----------------------------+
+|      User Management         |        |        Book Management       |
+|   - Register members         |        |   - Add/Update books        |
+|   - Update member details    |        |   - Remove books            |
+|   - Delete members           |        |   - Search books by title,  |
+|   - Login/Logout members     |        |     author, or ISBN         |
++-----------------------------+        +-----------------------------+
+                |                                 |
+                v                                 v
++-----------------------------+        +-----------------------------+
+|  Issue and Return Management |        |    Fine Calculation         |
+|   - Issue books to members   |        |   - Calculate overdue fines |
+|   - Track issued books       |        |   - Pay fines               |
+|   - Return books             |        |   - Track fine payments     |
++-----------------------------+        +-----------------------------+
+                |                                 |
+                v                                 v
++-----------------------------+        +-----------------------------+
+|       Reports and Statistics |        |      Data Integrity         |
+|   - Generate book reports    |        |   - Ensure correct data     |
+|   - Generate member reports  |        |   - Implement validation    |
+|   - Generate transaction     |        |   - Handle errors correctly |
+|     and fine reports         |        +-----------------------------+
++-----------------------------+        
+                |                                 
+                v
++-----------------------------+        
+|         Backup and Recovery  |
+|   - Regular backups          |
+|   - Data recovery            |
++-----------------------------+
+
+Explanation:-
+--------------
+User Management: Handling member registration, login/logout, and updates.
+
+Book Management: Managing books (adding, updating, searching).
+
+Issue and Return Management: Tracking book issues, returns, and overdue fines.
+
+Fine Calculation: Calculating and managing overdue fines.
+
+Reports and Statistics: Generating reports on books, members, and transactions.
+
+Data Integrity: Ensuring the validity and correctness of all data.
+
+Backup and Recovery: Managing system data backups and recovery processes.

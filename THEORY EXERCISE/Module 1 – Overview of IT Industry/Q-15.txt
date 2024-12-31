@@ -1,0 +1,34 @@
+Q-15. Github and Introductions.
+Ans:- GitHub is a platform for sharing and collaborating on code. You can create repositories to store projects, track changes with
+      Git, and work with others using features like branches and pull requests.
+
+To get started:
+--------------------
+    Create an account at GitHub.
+    Set up Git on your computer.
+    Create a repository, clone it, and start adding code with git add, git commit, and git push.
+
+For introductions:
+---------------------
+    Profile: Add a README with your skills, interests, and contact info.
+    Project: Write a README explaining what your project does and how to contribute.
+
+Why is version control important in software development?
+----------------------------------------------------------------------------------------------------------------------------------------
+   # Version control is essential in software development because it helps teams manage code changes efficiently and ensures project 
+    consistency. 
+
+Key Reasons for Version Control:-
+-----------------------------------
+Tracks Changes: Keeps a history of all changes, making it easy to review or revert to previous versions.
+
+Collaboration: Allows multiple developers to work on the same project simultaneously without overwriting each other's work.
+
+Branching and Merging: Enables developers to experiment with new features or fixes in isolated branches, then merge them safely 
+into the main codebase.
+
+Error Recovery: Simplifies undoing mistakes by restoring a stable version of the code.
+
+Transparency: Provides a clear log of who made what changes and why, aiding accountability.
+
+Backup: Acts as a centralized backup for the codebase.

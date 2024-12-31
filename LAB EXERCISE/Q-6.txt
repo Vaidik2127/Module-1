@@ -1,0 +1,35 @@
+Q-6. Identify and explain three common application security vulnerabilities. Suggest possible solutions.
+Ans:-
++-----------------------------+
+|  Application                |
+|  Security Vulnerabilities   |
++-----------------------------+
+        |
+   +---------------+----+-----+
+   |                   |      |
++---------+        +------+  +------+
+| SQL     |        | XSS  |  | CSRF |--------
+|Injection|        +------+  +------+       | 
++------+              |                     |
+   |                  |                     |
+   v                  v                     V
++-----------+    +-----------+     +------------------+
+| Solution  |    | Solution  |     | Solution         |
+| (Use      |    | (Sanitize |     | (Use Anti-CSRF   |
+| Parameterized| | Input)    |     | Tokens)          |
+| Queries)  |    | (CSP)     |     |                  |
++-----------+    +-----------+     +------------------+
+
+Explanation:-
+-------------
+1.SQL Injection (SQLi):
+Problem: Malicious input inserted into SQL queries to manipulate the database.
+Solution: Use parameterized queries to prevent SQL injection.
+
+2.Cross-Site Scripting (XSS):
+Problem: Malicious JavaScript injected into web pages, executed by other users.
+Solution: Sanitize user inputs, use Content Security Policy (CSP).
+
+3.Cross-Site Request Forgery (CSRF):
+Problem: An attacker tricks a logged-in user into performing unwanted actions.
+Solution: Use anti-CSRF tokens to validate requests.

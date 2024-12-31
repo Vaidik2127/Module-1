@@ -1,0 +1,37 @@
+Q-6. Explain Client Server Communication.
+Ans:-Client-Server Communication: Simple Explanation
+    Client-server communication is how two devices (a client and a server) talk to each other over a network to exchange information.
+
+How It Works:
+    Client Sends a Request:
+        The client (e.g., your web browser) asks for something from the server (e.g., a webpage).
+
+    Server Receives and Processes:
+        The server listens for the request, processes it (e.g., fetches the webpage), and prepares a response.
+
+    Server Sends a Response:
+        The server sends the requested information or an error message back to the client.
+
+    Client Displays or Uses the Response:
+        The client takes the response (e.g., webpage data) and shows it to the user.
+    
+Key Examples:
+    Web Browsing:
+        Client: Your browser.
+        Server: Website's hosting server.
+        Communication: Browser requests a webpage; the server sends it back.
+
+    Email:
+        Client: Your email app (e.g., Gmail).
+        Server: Email server.
+        Communication: Client fetches emails or sends a new email.
+
+Protocols (Rules for Communication):
+    HTTP/HTTPS: Used for websites.
+    FTP: Used for file transfers.
+    SMTP/IMAP: Used for sending/receiving emails.
+
+Why It’s Useful:
+    Centralized data storage (on servers).
+    Multiple clients can access the same server at the same time.
+    Makes things like browsing, gaming, and emailing possible.

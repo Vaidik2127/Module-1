@@ -1,0 +1,62 @@
+Q-23. Create a DFD for a hospital management system.
+Ans:-
+                                      +------------------------+
+                                      |     External Entities  |
+                                      |                        |
+                                      |   1. Patient           |
+                                      |   2. Doctors           |
+                                      |   3. Admin             |
+                                      |   4. Pharmacy          |
+                                      +-----------+------------+
+                                                  |
+                                                  v
+                                      +------------------------+
+                                      |    Patient Management  |
+                                      |    Process (P1)        |
+                                      +------------------------+
+                                      |  - Register Patient    |
+                                      |  - Update Patient Info |
+                                      +------------+-----------+
+                                                   |
+                                   +---------------+----------------+
+                                   |                                  |
+                                   v                                  v
+                       +------------------------+      +-------------------------+
+                       |  Appointment Management |      |   Medical Record        |
+                       |         (P2)            |      |     Management (P3)     |
+                       +------------------------+      +-------------------------+
+                       | - Schedule Appointment  |      | - Add Medical Records   |
+                       | - Cancel Appointment    |      | - Update Medical Records|
+                       +------------+-----------+      +-------------------------+
+                                    |                                   |
+                                    v                                   v
+                      +---------------------------+        +-----------------------+
+                      |  Billing Management       |        |     Pharmacy           |
+                      |       (P4)                |        |     Management (P5)    |
+                      +---------------------------+        +-----------------------+
+                      |  - Generate Bill          |        | - Dispense Medications |
+                      |  - Process Payments       |        | - Manage Inventory     |
+                      +---------------------------+        +-----------------------+
+                                    |
+                                    v
+                        +-----------------------+
+                        |  Data Store: Patient   |
+                        |     Information       |
+                        +-----------------------+
+                                    |
+                                    v
+                        +-----------------------+
+                        |  Data Store: Appointments|
+                        +-----------------------+
+                                    |
+                                    v
+                        +-----------------------+
+                        |  Data Store: Medical   |
+                        |     Records           |
+                        +-----------------------+
+                                    |
+                                    v
+                        +-----------------------+
+                        |  Data Store: Billing   |
+                        |      Records          |
+                        +-----------------------+

@@ -1,0 +1,25 @@
+Q-4. World Wide Web & How Internet Works.
+Ans:-World Wide Web (WWW) is a system of websites and pages accessible through the internet using web browsers. 
+     The Internet is a global network connecting millions of computers and devices that enables communication and
+     sharing of information.
+
+Roles of Client and Server in Web Communication:
+    1. Client (Your Device):
+        •	What it does: The client (like a web browser) asks the server for information (e.g., a webpage).
+        •	How it works: It sends a request (like typing a website address) and shows the result on your screen.
+        Example: When you type a website URL, your browser (client) asks the server to send back the webpage.
+
+    2. Server (Website’s Computer):
+        •	What it does: The server provides the requested information to the client.
+        •	How it works: It receives the client's request, processes it, and sends back the data (like a webpage or file).
+        Example: When you visit a website, the server processes your request and sends back the content (text, images) for your browser to display.
+
+Network Layers on Client and Server:
+
+    Both the client and server use layers to send and receive data over the internet. Here’s how it works:
+
+        •	Application Layer: Where your browser (client) and web server communicate (using HTTP).
+        •	Transport Layer: Ensures data is sent correctly between the client and server (using TCP).
+        •	Network Layer: Routes the data across the internet (using IP addresses).
+        •	Data Link and Physical Layer: Handle how data travels through physical networks (like Wi-Fi or cables).
+

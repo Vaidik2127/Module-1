@@ -1,0 +1,17 @@
+Q-1. What is a Program?
+Ans:-A program is a set of instructions written in a programming language that a computer can execute to perform specific
+     tasks or solve problems. Programs are the foundation of all software, ranging from simple tools like calculators to complex 
+     applications like web browsers, operating systems, and artificial intelligence systems.
+
+Key Components of a Program:
+
+    1.	Instructions: The steps or commands the computer follows, written in a programming language (e.g., Python, C++, Java).
+    2.	Input: Data provided to the program to process (e.g., user input, files, or sensor data).
+    3.	Processing: The logic or computation performed by the program on the input data.
+    4.	Output: The result or feedback produced by the program, which could be displayed on the screen, stored in a file, or 
+        sent to another system.
+
+Types of Programs:
+
+    •	Application Programs: Designed for end-users, like word processors, games, or mobile apps.
+    •	System Programs: Help manage and operate the computer hardware, like operating systems or utility programs.

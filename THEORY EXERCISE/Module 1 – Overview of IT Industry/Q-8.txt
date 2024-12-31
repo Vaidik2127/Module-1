@@ -1,0 +1,44 @@
+Q-8. Protocols.
+Ans:- Protocols are rules that devices follow to communicate with each other over a network. They ensure data is sent, 
+      received, and understood properly.
+
+Examples:
+    HTTP: For browsing websites.
+    SMTP: For sending emails.
+    Wi-Fi: For wireless internet.
+
+What are the differences between HTTP and HTTPS protocols?
+
+    Difference Between HTTP and HTTPS
+----------------------------------------------------------------------------------------------------
+            Full Form
+        ------------------
+HTTP: HyperText Transfer Protocol.
+HTTPS: HyperText Transfer Protocol Secure.
+
+            Security
+        -------------------
+HTTP: No security; data is sent as plain text, making it vulnerable to hackers.
+HTTPS: Secure; data is encrypted using SSL/TLS, protecting it from unauthorized access.
+
+            URL Format
+        --------------------
+HTTP: URLs start with http://.
+HTTPS: URLs start with https://.
+
+            Data Encryption
+        ---------------------
+HTTP: No encryption, making sensitive information (like passwords) unsafe.
+HTTPS: Encrypts data, making it safe for online transactions.
+
+            Use Case
+        ----------------------
+HTTP: Used for general websites where security isn’t a concern.
+HTTPS: Used for secure sites like banks, online shopping, and login pages.
+
+            Performance
+        -----------------------
+HTTP: Faster because there’s no encryption overhead.
+HTTPS: Slightly slower due to encryption, but modern systems minimize the difference.
+
+

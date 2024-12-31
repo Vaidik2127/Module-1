@@ -1,0 +1,58 @@
+Q-22. Document a real-world case where a software application required critical maintenance.
+Ans:-
+                  +-----------------------------------------+
+                  |   Issue: Bug in Appointment Scheduling  |
+                  |   Date-Time Handling Logic Failure     |
+                  |   (Missed, Double-booked, or Incorrect) |
+                  +-----------------------------------------+
+                                   |
+                                   v
+                  +-----------------------------------------+
+                  |   Impact: Disrupted Patient Appointments|
+                  |   - Patient care delays                |
+                  |   - Operational inefficiency           |
+                  |   - Risk of non-compliance with HIPAA   |
+                  +-----------------------------------------+
+                                   |
+                                   v
+                  +-----------------------------------------+
+                  |   Cause: Bug introduced by software    |
+                  |   update affecting date-time handling |
+                  |   - Time zone conversion issue         |
+                  |   - DST handling failure               |
+                  +-----------------------------------------+
+                                   |
+                                   v
+                  +-----------------------------------------+
+                  |   Maintenance: Immediate Actions       |
+                  |   - Rollback to stable version         |
+                  |   - Manual override for appointments   |
+                  +-----------------------------------------+
+                                   |
+                                   v
+                  +-----------------------------------------+
+                  |   Root Cause Analysis and Fixes        |
+                  |   - Code audit and discovery of bug    |
+                  |   - Update to time-zone library        |
+                  |   - Testing for international regions  |
+                  +-----------------------------------------+
+                                   |
+                                   v
+                  +-----------------------------------------+
+                  |   Outcome: Successful Fix and Testing  |
+                  |   - System restored to normal operation|
+                  |   - Appointments correctly scheduled   |
+                  |   - Compliance maintained               |
+                  +-----------------------------------------+
+
+Explanation of the Flow:
+-----------------------
+Issue: The bug in the scheduling system disrupted patient appointments due to date-time handling problems.
+
+Impact: Patient care was delayed, operational inefficiency occurred, and there was risk of HIPAA non-compliance.
+
+Cause: The issue was due to a bug introduced by a software update that didn’t properly handle time zones and daylight saving time.
+
+Maintenance Actions: Immediate rollback and manual override were applied, followed by root cause analysis and fixing the date-time handling logic.
+
+Outcome: The system was successfully fixed, and patient appointments were correctly managed and HIPAA compliance was maintained.

@@ -1,0 +1,66 @@
+Q-19. Perform a functional analysis for an online shopping system.
+Ans:-
++-----------------------------------------+
+|        Online Shopping System           |
++-----------------------------------------+
+                  |
+                  v
++-----------------------------+           +-------------------------------+
+|     User Account Management  |           |    Product Catalog Management |
+|  - User registration         |           |  - Add/Update products        |
+|  - Login/Logout              |           |  - Remove products            |
+|  - Manage account details    |           |  - Search products by name,   |
+|  - Password recovery         |           |     category, price, etc.     |
++-----------------------------+           +-------------------------------+
+                  |                                    |
+                  v                                    v
++-----------------------------+           +-------------------------------+
+|        Shopping Cart         |           |      Order Management         |
+|  - Add products to cart      |           |  - Create order               |
+|  - Update product quantity   |           |  - View order history         |
+|  - Remove products from cart |           |  - Update order status        |
+|  - View cart details         |           |  - Track order shipment       |
++-----------------------------+           +-------------------------------+
+                  |                                    |
+                  v                                    v
++-----------------------------+           +-------------------------------+
+|      Payment Processing      |           |      Customer Support         |
+|  - Add payment methods       |           |  - Contact support            |
+|  - Make payments (Credit     |           |  - Track customer inquiries   |
+|    Card, PayPal, etc.)       |           |  - Issue refunds              |
+|  - Payment confirmation      |           |                               |
++-----------------------------+           +-------------------------------+
+                  |                                    |
+                  v                                    v
++-----------------------------+           +-------------------------------+
+|   Shipping & Delivery        |           |       Reviews & Ratings      |
+|  - Choose shipping address   |           |  - Rate products              |
+|  - Select shipping method    |           |  - Leave product reviews      |
+|  - Track delivery status     |           |  - View ratings and reviews   |
++-----------------------------+           +-------------------------------+
+
+Explanation:-
+--------------
+User Account Management:
+Users can register, log in, and manage their accounts, including updating their information and recovering forgotten passwords.
+
+Product Catalog Management:
+Admins can add, update, or remove products. Users can search for products by name, category, or price.
+
+Shopping Cart:
+Users can add products to their cart, update quantities, remove items, and view their cart before checkout.
+
+Order Management:
+Users can place orders, track their order history, and check the status of their current orders (e.g., shipped, delivered).
+
+Payment Processing:
+Users can pay for their orders using various payment methods (credit card, PayPal, etc.), and the system confirms the payment.
+
+Customer Support:
+Users can contact support for help, track inquiries, and request refunds if needed.
+
+Shipping & Delivery:
+Users provide a shipping address, choose a delivery method, and track the status of their shipments.
+
+Reviews & Ratings:
+After purchasing, users can rate and leave reviews for products, and view ratings from other users.

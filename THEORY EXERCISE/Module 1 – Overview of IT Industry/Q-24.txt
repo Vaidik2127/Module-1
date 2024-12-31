@@ -1,0 +1,25 @@
+Q-24. : Why is software testing important?
+Ans:- Software testing is important because it ensures the software works as intended and meets user needs. 
+1. Detecting Bugs Early
+Testing helps find and fix errors before the software is released, saving time and money.
+
+2. Ensuring Quality
+Verifies that the software meets the requirements and delivers the expected results.
+
+3. Improving User Satisfaction
+Ensures the software is reliable, easy to use, and performs well, leading to happier users.
+
+4. Maintaining Security
+Identifies vulnerabilities to protect against cyberattacks and data breaches.
+
+5. Reducing Costs
+Fixing issues during development is much cheaper than after the software is released.
+
+6. Ensuring Compatibility
+Verifies that the software works on different devices, operating systems, and browsers.
+
+7. Preventing Failures
+Ensures the system behaves correctly, avoiding costly downtime or malfunctions.
+
+8. Supporting Business Goals
+Builds trust in the product, enhancing its market success and reputation.

@@ -1,0 +1,32 @@
+Q-1. Write a simple "Hello World" program in two different programming languages of your choice. Compare the structure and syntax.
+Ans:- 
+Code:- C language
+--------------------------------
+//print simpel hello world in c.
+//Vaidik Bhandari
+//27-12-24
+#include<stdio.h>
+int main(){
+    printf("Hello World");
+return 0;
+}
+
+
+Code:- Python language
+-----------------------
+#print Hello World
+#Vaidik Bhandari
+#27-12-24
+print("Hello World");
+
+
+Comparison:-
+-------------
+
+|Feature	                |               Python language	              |                 C language
+|---------------------------|---------------------------------------------|---------------------------------------------
+|Ease of Use                |    	Simplistic and beginner-friendly.	  |      Requires understanding of structure.
+|Syntax Complexity	        |       Minimal syntax.	                      |      More verbose and structured.
+|Setup Requirements         |       No explicit setup.                    |      Requires libraries and main function.
+|Flexibility	            |       Interpreted, dynamically typed.       |   	 Compiled, statically typed.
+|Output Statement           |       print() is simple and direct.	      |      printf() involves format specifiers.

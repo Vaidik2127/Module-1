@@ -1,0 +1,97 @@
+Q-7. Types of Internet Connections.
+Ans:- Internet connections can vary based on the technology and medium used to transmit data. Here are the common types
+      of internet connections:
+
+        1. Dial-Up Connection
+            Technology: Uses traditional telephone lines (POTS) to connect to the internet.
+            Speed: Very slow, up to 56 kbps.
+            Characteristics:
+            Requires a modem.
+            Occupies the phone line while in use.
+            Usage: Rarely used today due to advancements in technology.
+
+        2. Digital Subscriber Line (DSL)
+            Technology: Uses telephone lines but operates on different frequencies, allowing simultaneous internet and phone use.
+            Speed: Typically ranges from 256 kbps to 100 Mbps.
+            Characteristics:
+            Available in areas with landline infrastructure.
+            Speed decreases with distance from the provider’s central office.
+
+        3. Cable Internet
+            Technology: Transmits data through coaxial cables, the same used for cable TV.
+            Speed: Typically ranges from 10 Mbps to 1 Gbps.
+            Characteristics:
+            Speeds may vary depending on neighborhood usage (shared bandwidth).
+            Offers high-speed internet.
+
+        4. Fiber-Optic Internet
+            Technology: Transmits data as light signals through glass or plastic fibers.
+            Speed: Up to 10 Gbps or more.
+            Characteristics:
+            Extremely fast and reliable.
+            Expanding availability but not yet widespread.
+
+        5. Satellite Internet
+            Technology: Uses satellites to beam internet signals to dishes installed at the user’s location.
+            Speed: Typically ranges from 12 Mbps to 100 Mbps.
+            Characteristics:
+            Accessible in remote and rural areas.
+            Prone to latency and weather-related disruptions.
+
+        6. Wireless Internet (Fixed Wireless)
+            Technology: Transmits internet signals via radio waves from a fixed antenna.
+            Speed: Ranges from 10 Mbps to 1 Gbps, depending on the provider.
+            Characteristics:
+            Ideal for rural areas.
+            Requires line-of-sight between the tower and receiver.
+
+        7. Mobile Broadband (3G, 4G, 5G)
+            Technology: Uses cellular networks to provide internet access to mobile devices.
+            Speed:
+            3G: Up to 2 Mbps.
+            4G: 10-100 Mbps.
+            5G: 1-10 Gbps (and improving).
+            Characteristics:
+            Portable and widely available.
+            Data limits may apply.
+
+        8. Hotspots
+            Technology: Wireless networks created by mobile devices or dedicated devices (e.g., Mi-Fi).
+            Speed: Depends on the underlying mobile broadband network (3G, 4G, or 5G).
+            Characteristics:
+            Convenient for on-the-go connectivity.
+            May consume mobile data plans.
+
+        9. Broadband Over Power Lines (BPL)
+            Technology: Transmits internet data over electrical power lines.
+            Speed: Comparable to DSL or cable.
+            Characteristics:
+            Limited adoption.
+            Susceptible to interference.
+
+     How does broadband differ from fiber-optic internet?
+----------------------------------------------------------------------------------------------------------------------------------------
+    Technology
+------------------------------------------------------------------------------------------------------------
+Broadband: General term for high-speed internet. It can use phone lines (DSL), TV cables, or satellites.
+Fiber-Optic: A type of broadband that uses special cables made of glass or plastic to send data as light.
+
+    Speed
+------------------------------------------------------------------------------------------------------------
+Broadband: Speeds vary depending on the type (e.g., DSL is slower, cable is faster).
+Fiber-Optic: Much faster than other types, often 100 Mbps to 10 Gbps.
+
+    Reliability
+-------------------------------------------------------------------------------------------------------------
+Broadband: Can slow down due to distance or shared use (e.g., cable in busy neighborhoods).
+Fiber-Optic: Very reliable and consistent, not affected by distance or weather.
+
+    Availability
+--------------------------------------------------------------------------------------------------------------
+Broadband: Found almost everywhere.
+Fiber-Optic: Available in fewer places but expanding.
+
+    Cost
+---------------------------------------------------------------------------------------------------------------
+Broadband: Usually cheaper but slower.
+Fiber-Optic: Costs more but gives better speed and performance.

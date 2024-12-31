@@ -1,0 +1,76 @@
+Q-17. What are the differences between open-source and proprietary software?
+Ans:- Open-source and proprietary software differ in several key aspects, including accessibility, licensing, cost, customization, 
+      and support. Below is a detailed comparison:
+
+1. Source Code Access
+    Open-Source Software:
+        The source code is publicly available.
+        Users can view, modify, and redistribute the code.
+        Example: Linux, Mozilla Firefox.
+    Proprietary Software:
+        The source code is not accessible to users.
+        Only the software owner or authorized developers can modify the code.
+        Example: Microsoft Windows, Adobe Photoshop.
+
+2. Licensing    
+    Open-Source Software:
+        Distributed under open licenses like GPL, Apache, or MIT.
+        Users must comply with specific terms, such as sharing modifications under the same license.
+    Proprietary Software:
+        Distributed under restrictive licenses.
+        Users are typically prohibited from modifying or redistributing the software.
+
+3. Cost
+    Open-Source Software:
+        Usually free to use, though support and services might incur costs.
+        Examples of free tools: LibreOffice, GIMP.
+    Proprietary Software:
+        Often requires purchase or subscription.
+        Licensing fees can be significant for businesses.
+
+4. Customization
+    Open-Source Software:
+        Highly customizable since users can modify the code.
+        Developers can tailor the software to meet specific needs.
+    Proprietary Software:
+        Limited customization options.
+        Users rely on the vendor for updates and new features.
+
+5. Support
+    Open-Source Software:
+        Community-driven support through forums, wikis, and user groups.
+        Some projects offer paid support plans from third-party vendors.
+    Proprietary Software:
+        Vendor-provided support, often included in the purchase or available as an additional service.
+
+6. Security
+    Open-Source Software:
+        Transparency allows the community to identify and fix vulnerabilities quickly.
+        However, it may be more susceptible to exploitation if poorly maintained.
+    Proprietary Software:
+        Security patches are provided by the vendor.
+        Code secrecy might obscure vulnerabilities but delays fixes if issues are discovered.
+
+7. Development and Updates
+    Open-Source Software:
+        Community contributions drive development and updates.
+        Updates depend on community interest and activity.
+    Proprietary Software:
+        Updates are managed and released by the vendor.
+        Typically more structured but dependent on vendor priorities.
+
+8. Intellectual Property
+    Open-Source Software:
+        Shared intellectual property.
+        Users can modify and redistribute within license terms.
+    Proprietary Software:
+        Owned exclusively by the vendor.
+        Users only have rights to use the software, not ownership.
+
+9. Use Cases
+    Open-Source Software:
+        Ideal for academic, research, and non-commercial projects.
+        Popular in tech-driven enterprises requiring customization.
+    Proprietary Software:
+        Common in businesses requiring dedicated support and stability.
+        Preferred in environments with strict compliance or reliability requirements.

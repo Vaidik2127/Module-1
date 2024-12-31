@@ -1,0 +1,55 @@
+Q-3. Types of Programming Languages.
+Ans:-Types of Programming Languages (Simplified):
+    1.	Low-Level Languages
+        o	What they are: Close to how computers work. Hard for humans to read but very fast.
+        o	Examples:
+        	Machine Language: Only 0s and 1s.
+        	Assembly Language: Uses simple codes like ADD or MOV.
+
+    2.	High-Level Languages
+        o	What they are: Easy for humans to read and write. Need a translator (compiler or interpreter) for computers to understand.
+        o	Examples:
+        	Python, Java, C++, JavaScript
+        o	Why use them: Easier to learn, work on different computers, and great for creating apps and websites.
+
+    3.	Middle-Level Languages
+        o	What they are: A mix of low-level and high-level languages.
+        o	Example:
+        	C (can control hardware like low-level but is easier to use).
+
+    4.	Domain-Specific Languages (DSLs)
+        o	What they are: Designed for specific tasks.
+        o	Examples:
+        	SQL (manages databases).
+        	HTML (builds websites).
+        o	Why use them: Perfect for specialized jobs.
+
+    5.	Declarative Languages
+        o   What they are: Focus on what to do, not how to do it.
+        o	Examples:
+        	SQL, Prolog
+        o	Why use them: Simple for specific purposes like querying databases.
+
+    6.	Functional Languages
+        o	What they are: Based on math functions, avoiding changes to data.
+        o	Examples:
+        	Haskell, Lisp
+        o	Why use them: Great for complex calculations or parallel tasks.
+
+    7.	Concurrent/Parallel Languages
+        o	What they are: Handle many tasks at once.
+        o	Examples:
+        	Go, Rust
+        o	Why use them: Perfect for multi-tasking systems.
+
+    differences between high-level and low-level programming languages:-
+
+        Feature	      |  High-Level Languages	        |   Low-Level Languages
+    ------------------|---------------------------------|------------------------------------
+    Ease of Use	      | Easy to write and understand.	|    Hard to learn and write.
+    Close to Hardware?|	Far from hardware (abstract).	|   Very close to hardware.
+    Speed	          | Slower execution.	            |   Faster execution.
+    Examples	      | Python, Java, C++.	            |   Assembly, Machine Code.
+    Portability	      | Works on many devices.	        |   Works only on specific hardware.
+    Use Case	      | Apps, websites, games.	        |   Operating systems, drivers.
+

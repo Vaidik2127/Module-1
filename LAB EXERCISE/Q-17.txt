@@ -1,0 +1,45 @@
+Q-17. Create a flowchart representing the Software Development Life Cycle (SDLC).
+Ans:-
+     +---------------------+
+     |   Requirement       |
+     |    Gathering        |
+     +---------------------+
+              |
+              v
+     +---------------------+
+     |   System Design     |
+     +---------------------+
+              |
+              v
+     +---------------------+
+     |   Implementation    |
+     +---------------------+
+              |
+              v
+     +---------------------+
+     |   Testing           |
+     +---------------------+
+              |
+              v
+     +---------------------+
+     |   Deployment        |
+     +---------------------+
+              |
+              v
+     +---------------------+
+     |   Maintenance       |
+     +---------------------+
+
+Explanation:-
+--------------
+Requirement Gathering: Collecting user requirements.
+
+System Design: Planning system architecture and design.
+
+Implementation: Writing the actual code.
+
+Testing: Verifying the functionality.
+
+Deployment: Releasing the software for use.
+
+Maintenance: Ongoing updates and fixes after deployment.

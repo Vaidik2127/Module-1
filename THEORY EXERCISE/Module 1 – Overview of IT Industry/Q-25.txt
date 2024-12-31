@@ -1,0 +1,26 @@
+Q-25. What types of software maintenance are there?
+Ans:- There are four types of software maintenance, each serving a specific purpose:
+
+1.Corrective Maintenance:
+    Fixing bugs or errors after the software is released.
+    Example: Fixing a login issue.
+
+2.Adaptive Maintenance:
+    Updating the software to work with changes in the environment (like new hardware or operating systems).
+    Example: Updating the app for a new iPhone model.
+
+3.Perfective Maintenance:
+    Improving the software by adding new features or making it faster and easier to use.
+    Example: Adding a search bar to an app.
+
+4.Preventive Maintenance:
+    Making changes to prevent future problems or improve long-term performance.
+    Example: Optimizing the database to handle more users.
+
+These types ensure the software stays useful, reliable, and up-to-date.
+
+
+
+
+
+

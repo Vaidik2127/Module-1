@@ -1,0 +1,58 @@
+Q-10. Explore different types of software environments (development, testing, production). Set up a basic environment in a virtual 
+      machine.
+Ans:-
++----------------------------+
+|  Development Environment   |
+|----------------------------|
+|  - Code Writing            |
+|  - Debugging Tools         |
+|  - Local Mock Data         |
++----------------------------+
+               |
+               v
++----------------------------+
+|    Testing Environment     |
+|----------------------------|
+|  - Integration Testing     |
+|  - Automated Tests         |
+|  - Mimics Production Setup |
++----------------------------+
+               |
+               v
++----------------------------+
+|   Production Environment   |
+|----------------------------|
+|  - Live Application        |
+|  - Real User Data          |
+|  - Optimized for Security  |
++----------------------------+
+
+           VM Setup Steps:
++-------------------------------------------+
+| Virtual Machine (VM)                      |
+|-------------------------------------------|
+|  1. Install VirtualBox/VMware             |
+|  2. Create New VM                         |
+|  3. Install OS (e.g., Ubuntu)             |
+|  4. Install Development Tools:            |
+|     - Git, Python, Node.js, etc.          |
+|  5. Configure Networking and Dependencies |
+|  6. Take Snapshot for Backup              |
++-------------------------------------------+
+
+Explanation:-
+-------------
+1.Development Environment
+--------------------------
+Where developers write and test code.
+Example: A programmer building a feature on their computer using tools like VS Code and Git.
+
+2.Testing Environment
+----------------------
+Where the software is tested to ensure it works as expected.
+Example: A QA team checks if the new feature integrates well with the existing system.
+
+3.Production Environment
+-------------------------
+The live system used by actual users.
+Example: The final app or website available to the public.

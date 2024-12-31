@@ -1,0 +1,78 @@
+Q-11. What is Software Architecture?
+Ans:- Software architecture refers to the high-level structure or design of a software system. It defines how different components
+      of the system interact with each other and how they are organized. Essentially, software architecture provides a blueprint for 
+      both the system's design and its implementation.
+
+Key Aspects of Software Architecture:
+------------------------------------------------------------------------------------------------------------------------------------------
+    Components: Individual parts or modules of the software, such as user interfaces, databases, or network services.
+    Interactions: How these components communicate with each other.
+    Patterns: Proven architectural styles or patterns that guide the organization of software
+    (e.g., layered architecture, microservices).
+    Design Decisions: High-level decisions regarding performance, scalability, security, and maintainability.
+    Technologies: Tools and technologies (e.g., programming languages, frameworks, databases) that are used to build the software.
+    
+    Common Software Architecture Patterns:
+        Monolithic Architecture:
+        ------------------------
+A single, unified codebase where all components are tightly integrated and run as a single process.
+Pros: Simple to develop and deploy.
+Cons: Difficult to scale and maintain as the system grows.
+
+        Layered (N-tier) Architecture:
+        ------------------------------
+The system is divided into layers, each responsible for specific tasks (e.g., presentation, logic, data access).
+Pros: Separates concerns, making it easier to maintain and scale.
+Cons: Can be slower due to layer interactions.
+
+        Microservices Architecture:
+        ---------------------------
+The system is broken into smaller, independently deployable services that communicate over a network.
+Pros: Highly scalable and easier to maintain.
+Cons: Complex to manage and requires infrastructure for service communication.
+
+        Client-Server Architecture:
+        ---------------------------
+The system is divided into two main components: the client (requester of services) and the server (provider of services).
+Pros: Clear division between user interface and data processing.
+Cons: Server overloads can affect the client experience.
+
+        Event-Driven Architecture:
+        --------------------------
+The system is based on the production, detection, and reaction to events (e.g., a user clicks a button, a sensor detects motion).
+Pros: Highly responsive and flexible.
+Cons: Can be complex to manage event flows.
+
+Key Roles of Software Architecture:
+        Scalability: Ensures the system can handle increased loads.
+        Performance: Ensures the system operates efficiently.
+        Security: Implements mechanisms to protect the system from threats.
+        Maintainability: Ensures that the system is easy to update and extend over time.
+        Reliability: Ensures the system performs consistently and can recover from failures.
+
+Simple Example:
+Think of software architecture like building a house:
+----------------------------------------------------------------------------------------------------------------------------------------
+The architect plans the layout and structure (the software architecture).
+
+The builders (developers) implement the design using specific materials (programming languages, frameworks).
+
+The blueprint (architecture) decides where each room (module) goes, how they connect (interactions), and how the house will stand up to 
+weather (scalability, reliability).
+
+What is the significance of modularity in software architecture.
+
+Modularity means dividing a software system into smaller, independent parts (modules) that each handle specific tasks. This approach
+has several benefits:
+
+    Easier Maintenance: Fixing one module doesn’t affect the rest of the system.
+    Scalability: Modules can be scaled up or down as needed without impacting other parts.
+    Reusability: Modules can be reused in different applications.
+    Faster Development: Teams can work on different modules at the same time.
+    Flexibility: New features or changes can be added by modifying only the affected module.
+    Simpler Testing: Testing is easier because you can test each module separately.
+    Fault Isolation: Problems in one module don’t bring down the entire system.
+
+Simple Example:
+Imagine building a car with separate parts: engine, wheels, and doors. If one part breaks (e.g., the door), you can fix it without
+touching the rest of the car. This makes the system easier to manage, update, and scale.

@@ -1,0 +1,26 @@
+Q-28. What role does UI/UX design play in application development?
+Ans:- UI/UX design plays a big role in application development because it focuses on making the app easy and enjoyable to use.
+
+1.Attracts Users:
+A good design catches users’ attention and makes a great first impression.
+
+2.Easy to Use (Usability):
+Helps users navigate the app smoothly without confusion.
+
+3.Improves User Satisfaction:
+A well-designed app makes users happy because it meets their needs efficiently.
+
+4.Reduces Errors:
+Clear layouts and instructions prevent mistakes while using the app.
+
+5.Saves Time:
+Good UX design makes tasks faster and more intuitive for users.
+
+6.Builds Trust:
+A professional and polished design makes the app feel reliable and trustworthy.
+
+7.Boosts Engagement:
+Users are more likely to keep using an app if it’s enjoyable and visually appealing.
+
+8.Increases Success:
+Apps with great UI/UX are more likely to succeed in the market and get positive reviews.

@@ -1,0 +1,61 @@
+Q-10. Software Applications and Its Types.
+Ans:- A software application is a program or group of programs designed to perform specific tasks for users. These tasks could 
+      range from productivity (e.g., word processing) to entertainment (e.g., gaming). Software applications typically run on 
+      computers, smartphones, tablets, or other devices.
+
+Types of Software Applications:-
+
+    Based on Functionality
+----------------------------------------------------------------------------------------------------------------------------------------
+        Productivity Applications: Help users perform work-related tasks.
+            Examples: Microsoft Office, Google Docs.
+        Multimedia Applications: Handle audio, video, and image editing.
+            Examples: Adobe Photoshop, VLC Media Player.
+        Business Applications: Cater to organizational needs like accounting, customer management.
+            Examples: QuickBooks, Salesforce.
+        Entertainment Applications: Provide games, streaming, or other entertainment.
+            Examples: Netflix, PUBG, Spotify.
+
+    Based on Deployment
+----------------------------------------------------------------------------------------------------------------------------------------
+        Desktop Applications: Installed and run on a computer.
+            Examples: Microsoft Word, Adobe Acrobat.
+        Web Applications: Accessed through a web browser, requiring no installation.
+            Examples: Gmail, Google Maps.
+        Mobile Applications: Designed for smartphones and tablets.
+            Examples: WhatsApp, Instagram.
+        Cloud Applications: Run on cloud servers and can be accessed from anywhere.
+            Examples: Google Drive, Dropbox.
+
+    Based on Accessibility
+----------------------------------------------------------------------------------------------------------------------------------------
+        Open Source Applications: Free to use and modify.
+            Examples: LibreOffice, GIMP.
+        Proprietary Applications: Paid and protected by licenses.
+            Examples: Microsoft Office, Adobe Creative Suite.
+        Freeware: Free to use but proprietary.
+            Examples: Skype, Zoom.
+        Shareware: Free for a trial period; requires payment for full access.
+            Examples: WinRAR, Adobe Photoshop (trial).
+
+    Based on Use
+----------------------------------------------------------------------------------------------------------------------------------------
+        Utility Software: Focuses on system management.
+            Examples: Antivirus software, Disk Cleanup tools.
+        Educational Software: For learning and training.
+            Examples: Duolingo, Khan Academy.
+        Gaming Software: Entertainment through video games.
+            Examples: Minecraft, Fortnite.
+
+What is the difference between system software and application software?
+-------------------------|----------------------------------------------------------------|--------------------------------------------------------------
+    Aspect  	         |                    System Software	                          |              Application Software
+-------------------------|----------------------------------------------------------------|--------------------------------------------------------------
+    Purpose	             |  Manages and controls hardware and system operations.	      |    Helps users perform specific tasks or activities.
+    Examples	         |  Operating systems (e.g., Windows, Linux), utilities.	      |    Microsoft Word, Gmail, WhatsApp, Adobe Photoshop.
+    Interaction	         |  Runs in the background and interacts directly with hardware.  |   Runs on top of system software and interacts with users.
+    Dependency	         |  Essential for a computer to function.	                      |    Depends on system software to operate.
+    Complexity	         |  Typically more complex and designed for broader functionality.|	   Task-specific and simpler in design.
+    Installation         |	Pre-installed or comes with the hardware.	                  |    Installed by the user as needed.
+    User Interface	     |  Limited or no user interface (e.g., command line).            |    Designed with user-friendly interfaces.
+    Examples in Daily Use|	Operating system booting, managing hardware resources.	      |    Writing documents, browsing websites, playing games.

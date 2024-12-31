@@ -1,0 +1,53 @@
+Q-15. Follow a GIT tutorial to practice cloning, branching, and merging repositories.
+Ans:- 
+1. Clone a Repository:
+------------------------
+C:\> git clone https://github.com/your-username/repository-name.git
+
+2. Navigate to the Repository:
+------------------------------
+C:\> cd repository-name
+
+3. Create a New Branch:
+------------------------
+C:\repository-name> git checkout -b feature-branch
+
+4. Make Changes (e.g., create a new file):
+-----------------------------------------
+C:\repository-name> echo "New feature added" > new-feature.txt
+
+5. Stage the Changes:
+---------------------
+C:\repository-name> git add new-feature.txt
+
+6. Commit the Changes:
+----------------------
+C:\repository-name> git commit -m "Added new feature"
+
+7. Push the Branch to GitHub:
+-----------------------------
+C:\repository-name> git push origin feature-branch
+
+8. Create a Pull Request on GitHub:
+-----------------------------------
+- Go to GitHub and create a Pull Request to merge `feature-branch` into `main`.
+
+9. Merge the Pull Request on GitHub:
+------------------------------------
+- Click **Merge pull request** on GitHub.
+
+10. Switch to the Main Branch:
+------------------------------
+C:\repository-name> git checkout main
+
+11. Pull the Latest Changes:
+----------------------------
+C:\repository-name> git pull origin main
+
+12. Delete the Feature Branch Locally:
+--------------------------------------
+C:\repository-name> git branch -d feature-branch
+
+13. Delete the Feature Branch Remotely:
+---------------------------------------
+C:\repository-name> git push origin --delete feature-branch
